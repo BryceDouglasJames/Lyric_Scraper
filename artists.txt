@@ -1,2 +1,85 @@
-Eminem	45
 Kendrick Lamar	1421
+Nas	48185
+Eminem	45
+Genius	72
+Logic	7922
+Mac Miller	820
+Taylor Swift	1177
+Machine Gun Kelly	1665
+Oxxxymiron	349224
+Fall Out Boy	7811
+Panic! at the Disco	50838
+Frank Ocean	1985
+Selena Gomez	45372
+Post Malone	326362
+Joey Bada$$	18047
+Playboi Carti	289976
+Travis Scott	20185
+Lil Wayne	4
+Russ	22516
+Lil Durk	21964
+Rihanna	89
+Nicki Minaj	1345224
+Lorde	36944
+Big Sean	492
+Meek Mill	1319
+A$AP Ferg	15369
+Jhené Aiko	1020
+Mitski	265258
+DJ Khaled	158
+Lin-Manuel Miranda	2316446
+Troye Sivan	1699941
+Lady Gaga	1494027
+Migos	44080
+Bonnie Tyler	39868
+Meghan Trainor	201194
+Wiz Khalifa	310
+YG	1450
+Wale	396
+Chief Keef	16808
+Mike Posner	654
+Julia Michaels	409643
+T.I.	264368
+Grimes	18722
+Ed Sheeran	12418
+Snoop Dogg	46
+Kevin Gates	30192
+K.I.Z	566548
+Rick Ross	88
+Seal	217208
+Fabolous	3
+Common	223
+Yo Gotti	118
+Fabri Fibra	21702
+​The Lumineers	26076
+Royce da 5'9"	471
+Azealia Banks	14186
+OneRepublic	934
+Charli XCX	45349
+Taco Hemingway	114783
+French Montana	1583
+Freddie Gibbs	369731
+DRAM	241761
+Dave Matthews Band	18451
+ATL	105
+John Legend	365
+Ellie Goulding	1838
+GZA	507
+Anderson .Paak	2622290
+Genius France	207006
+Jeezy	67
+Ice Cube	974
+Halsey	1280104
+Nipsey Hussle	1263
+Gemitaiz	39279
+Jadakiss	1950932
+Christine and the Queens	327334
+Chris Webby	432
+Paul McCartney	1586713
+Alligatoah	15506
+Quebonafide	40889
+Everything Everything	104263
+Joe Budden	179
+Bebe Rexha	1839646
+ScHoolboy Q	11353
+Flatbush Zombies	16377

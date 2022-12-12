@@ -24,7 +24,7 @@ driver.get("https://genius.com/verified-artists")
 
 # Scroll alllll the way down to get a full set of artists
 load_counter = 0
-while(load_counter < 1):
+while(load_counter < 100):
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);") 
     time.sleep(1)
     load_counter+=1
