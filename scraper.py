@@ -29,28 +29,39 @@ for artist in names:
         name = formatted[0]
         id = formatted[1]
         path = os.path.join("./", name.lower()) 
+
         if not os.path.exists(path):
             os.mkdir(path)
-        os.chdir(path)      
+        os.chdir(path)   
+
         all_lyrics_from_artist = ""
         all_lyrics_from_album = ""
         all_lyrics_from_song = ""
         all_albums = {}
         albums_search = genius.artist_albums(id)['albums']
+
+        #Go through each song by the artist and put all the proper files where they need to go
         for key in albums_search:
+
             #TODO to be safe, we should instead grab the id for the album instead of the title...
             album = str(key['name'])
             print(album)
+
             if not os.path.exists(album.lower()):
                 os.mkdir(album.lower())
             os.chdir(album.lower())
+
             songs = genius.search_album(key['name'])
-        
+    
             #Keep for debug
             #for t in songs.to_dict()['tracks'][0]['song']:
             #    print(t)   
             #print(songs.to_dict()['tracks']['song']['lyrics'])
+
+
             album_dict = songs.to_dict()['tracks']
+
+            #Now, go through and format all the song names
             for songs_info in album_dict:
                 try:
                     index = int(songs_info['number']) - 1
@@ -81,15 +92,20 @@ for artist in names:
                 except:
                     continue
                 
+            #Dump all the lyrics from the album into a txt file
             all_lyrics_from_album = open(album.lower()+ "_album_all_songs.txt" , "a")
             all_lyrics_from_album.write(songs.to_text())
             all_lyrics_from_album.close()
             all_lyrics_from_artist += songs.to_text()
             os.chdir("..")
+
+        #Go ahead and dump all the songs fromt the artist
         artist_lyrics = open(name.lower() + "_all_songs.txt", 'a')
         artist_lyrics.write(all_lyrics_from_artist.lower())
         artist_lyrics.close()
         os.chdir("..")
+
+        #Sync with s3 bucket
         os.system("aws s3 sync \"" + name + "\" s3://artistlyricsdata/" + name + "/")
     except Exception as e:
         if e == KeyboardInterrupt:

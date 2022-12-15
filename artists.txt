@@ -1,45 +1,3 @@
-Kendrick Lamar	1421
-Nas	48185
-Eminem	45
-Genius	72
-Logic	7922
-Mac Miller	820
-Taylor Swift	1177
-Machine Gun Kelly	1665
-Oxxxymiron	349224
-Fall Out Boy	7811
-Panic! at the Disco	50838
-Frank Ocean	1985
-Selena Gomez	45372
-Post Malone	326362
-Joey Bada$$	18047
-Playboi Carti	289976
-Travis Scott	20185
-Lil Wayne	4
-Russ	22516
-Lil Durk	21964
-Rihanna	89
-Nicki Minaj	1345224
-Lorde	36944
-Big Sean	492
-Meek Mill	1319
-A$AP Ferg	15369
-Jhené Aiko	1020
-Mitski	265258
-DJ Khaled	158
-Lin-Manuel Miranda	2316446
-Troye Sivan	1699941
-Lady Gaga	1494027
-Migos	44080
-Bonnie Tyler	39868
-Meghan Trainor	201194
-Wiz Khalifa	310
-YG	1450
-Wale	396
-Chief Keef	16808
-Mike Posner	654
-Julia Michaels	409643
-T.I.	264368
 Grimes	18722
 Ed Sheeran	12418
 Snoop Dogg	46
@@ -83,3 +41,66 @@ Joe Budden	179
 Bebe Rexha	1839646
 ScHoolboy Q	11353
 Flatbush Zombies	16377
+Watsky	1720
+Duran Duran	22720
+R. Kelly	535
+Rashid	223
+Los Campesinos!	60896
+Rap Genius	27983
+Cardi B	621678
+Tech N9ne	506
+Skylar Grey	1102
+The Game	42
+Gucci Mane	13
+BØRNS	240008
+Lupe Fiasco	147
+Black Thought	176
+Ne-Yo	375
+JAY-Z	652275
+Пошлая Молли (Poshlaya Molly)	1090746
+Sokół (POL)	62633
+Raekwon	76
+The-Dream	1950906
+M.I.A.	1324375
+Big K.R.I.T.	491
+Kendrick Lamar	1421
+Nas	48185
+Logic	7922
+Mac Miller	820
+Taylor Swift	1177
+Machine Gun Kelly	1665
+Oxxxymiron	349224
+Fall Out Boy	7811
+Panic! at the Disco	50838
+Frank Ocean	1985
+Selena Gomez	45372
+Post Malone	326362
+Joey Bada$$	18047
+Playboi Carti	289976
+Travis Scott	20185
+Lil Wayne	4
+Russ	22516
+Lil Durk	21964
+Rihanna	89
+Nicki Minaj	1345224
+Lorde	36944
+Big Sean	492
+Meek Mill	1319
+A$AP Ferg	15369
+Jhené Aiko	1020
+Mitski	265258
+DJ Khaled	158
+Lin-Manuel Miranda	2316446
+Troye Sivan	1699941
+Lady Gaga	1494027
+Migos	44080
+Bonnie Tyler	39868
+Meghan Trainor	201194
+Eminem	45
+Wiz Khalifa	310
+YG	1450
+Wale	396
+Chief Keef	16808
+Mike Posner	654
+Julia Michaels	409643
+T.I.	264368

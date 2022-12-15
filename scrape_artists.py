@@ -21,6 +21,7 @@ genius.excluded_terms = ["(Remix)", "(Live)"]
 # Open up safari browser instance
 driver = webdriver.Safari()
 driver.get("https://genius.com/verified-artists")
+driver.execute_script("document.body.style.zoom='zoom 30%'")
 
 # Scroll alllll the way down to get a full set of artists
 load_counter = 0
